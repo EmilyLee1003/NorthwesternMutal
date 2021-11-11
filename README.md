@@ -8,6 +8,6 @@ Features: - Displays the top popular movies to current date - Search movies base
 -Navigation bar
 -Pop up Modal that displays additional information when each movie is clicked
 
-![homepage](homepage.jpg)
+![homepage](client/homepage.jpg)
 ![screenshot](searchpage.png)
 ![screenshot](searchresults.png)
