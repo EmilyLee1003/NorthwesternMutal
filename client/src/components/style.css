@@ -1,0 +1,62 @@
+.movie {
+  background-color: white;
+  padding: 40px;
+  border: 2px solid black;
+  width: 300px;
+}
+
+.movie img {
+  width: 200px;
+}
+.displayContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.display h1 {
+  width: 100%;
+}
+.display {
+  padding: 40px;
+  margin-top: 100px;
+}
+
+.popularMovie {
+  padding: 40px;
+}
+
+.modalImg {
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+}
+
+.searchInput {
+  position: absolute;
+
+  left: 50%;
+  margin-top: 30px;
+  margin-left: -50px;
+  width: 100px;
+  height: 100px;
+  padding-bottom: 100px;
+}
+
+.formcontrol {
+  width: 100px;
+}
+
+.tmdblogo {
+  height: 50px;
+  width: 50px;
+}
+
+.dropButton {
+  width: 100%;
+  margin-right: auto 0;
+}
+
+.dropDown {
+  float: right;
+}
