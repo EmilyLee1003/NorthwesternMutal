@@ -9,5 +9,6 @@ Features: - Displays the top popular movies to current date - Search movies base
 -Pop up Modal that displays additional information when each movie is clicked
 
 ![homepage](client/homepage.jpg)
-![screenshot](searchpage.png)
-![screenshot](searchresults.png)
+![screenshot](client/searchpage.jpg)
+![screenshot](client/searchresults.jpg)
+![screenshot](client/modal.jpg)
