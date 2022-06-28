@@ -1,7 +1,3 @@
-
-
-coding challenge
-
 This application uses API from TMDB.
 Features: - Displays the top popular movies to current date - Search movies based on title
 -Sort button can display search results by popularity or release date
